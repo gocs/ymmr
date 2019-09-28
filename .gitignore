@@ -20,5 +20,8 @@ __debug_bin
 # vscode
 .vscode
 
-# # protobuf third party
-# third_party
+# protobuf third party
+third_party
+
+# protobuf server
+server
